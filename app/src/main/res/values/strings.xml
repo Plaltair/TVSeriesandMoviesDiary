@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">TV Series and Movies Diary</string>
+    <string name="tab1Name">TV Series</string>
+    <string name="tab2Name">Movies</string>
+    <string name="tab1NameSingular">TV Series</string>
+    <string name="tab2NameSingular">Movie</string>
+
+    <string name="listItem1Tab1">NOT FINISHED</string>
+    <string name="listItem2Tab1">TO BE SEEN</string>
+    <string name="listItem3Tab1">FINISHED</string>
+
+    <string name="listItem1Tab2">TO BE SEEN</string>
+    <string name="listItem2Tab2">SEEN</string>
+    <string name="title_activity_tvseries">TVSeries</string>
+    <string name="title_activity_movies">Movies</string>
+
+    <string name="noTVSeries">NO TV SERIES</string>
+    <string name="noMovies">NO MOVIES</string>
+
+    <string name="changeImge">CHANGE IMAGE</string>
+    <string name="save">SAVE</string>
+
+    <string name="season">Season:</string>
+    <string name="episode">Episode:</string>
+
+    <string name="emptyTitle">Title&#8230;</string>
+    <string name="emptyNote">Note&#8230;</string>
+
+    <string name="chooseATitle">CHOOSE A TITLE</string>
+
+    <string name="create">CREATE</string>
+    <string name="back">BACK</string>
+
+    <string name="delete">DELETE</string>
+
+    <string name="move">MOVE</string>
+
+    <string name="changeTag">CHANGE TAG</string>
+
+    <string name="addNote">ADD NOTE</string>
+
+    <string name="choose">CHOOSE</string>
+    <string name="write">WRITE</string>
+
+    <string name="confirm">CONFIRM</string>
+
+    <string name="sure">ARE YOU SURE?</string>
+
+    <string name="emptyText">Empty text</string>
+    <string name="nameAlreadyInUse">Name already in use</string>
+
+    <string name="defaultImage">DEFAULT IMAGE</string>
+    <string name="deleteImage">DELETE IMAGE</string>
+
+    <string name="deleteTag">DELETE TAG</string>
+
+    <string name="search">Search</string>
+    <string name="searchEmpty">Search&#8230;</string>
+
+    <string name="introText">Before you start, what date format do you prefer to indicate today\'s date?</string>
+
+    <string name="preference">You will not be able to change this setting in the future</string>
+
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="day_month">Day/Month/Year</string>
+    <string name="month_day">Month/Day/Year</string>
+
+</resources>

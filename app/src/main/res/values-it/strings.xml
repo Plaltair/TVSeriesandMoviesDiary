@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">TV Series and Movies Diary</string>
+    <string name="tab1Name">Serie TV</string>
+    <string name="tab2Name">Film</string>
+    <string name="tab1NameSingular">Serie TV</string>
+    <string name="tab2NameSingular">Film</string>
+
+    <string name="listItem1Tab1">NON FINITE</string>
+    <string name="listItem2Tab1">DA VEDERE</string>
+    <string name="listItem3Tab1">FINITE</string>
+
+    <string name="listItem1Tab2">DA VEDERE</string>
+    <string name="listItem2Tab2">VISTI</string>
+
+    <string name="noTVSeries">NESSUNA SERIE TV</string>
+    <string name="noMovies">NESSUN FILM</string>
+
+    <string name="changeImge">CAMBIA IMMAGINE</string>
+    <string name="save">SALVA</string>
+
+    <string name="season">Stagione:</string>
+    <string name="episode">Episodio:</string>
+
+    <string name="emptyTitle">Titolo&#8230;</string>
+    <string name="emptyNote">Nota&#8230;</string>
+
+    <string name="chooseATitle">SCEGLI UN TITOLO</string>
+
+    <string name="create">CREA</string>
+    <string name="back">INDIETRO</string>
+
+    <string name="delete">ELIMINA</string>
+
+    <string name="move">SPOSTA</string>
+
+    <string name="changeTag">CAMBIA TAG</string>
+
+    <string name="addNote">AGGIUNGI NOTA</string>
+
+    <string name="choose">SCEGLI</string>
+    <string name="write">SCRIVI</string>
+
+    <string name="confirm">CONFERMA</string>
+
+    <string name="sure">SEI SICURO?</string>
+
+    <string name="emptyText">Testo vuoto</string>
+    <string name="nameAlreadyInUse">Titolo già in uso</string>
+
+    <string name="defaultImage">IMMAGINE PREDEFINITA</string>
+    <string name="deleteImage">CANCELLA IMMAGINE</string>
+
+    <string name="deleteTag">CANCELLA TAG</string>
+
+    <string name="search">CERCA</string>
+    <string name="searchEmpty">Cerca&#8230;</string>
+
+    <string name="introText">Prima di iniziare, quale formato di data preferisci per indicare la data di oggi?</string>
+
+    <string name="preference">Non potrai cambiare questa impostazione in futuro</string>
+
+    <string name="yes">SÌ</string>
+    <string name="no">NO</string>
+
+    <string name="day_month">Giorno/Mese/Anno</string>
+    <string name="month_day">Mese/Giorno/Anno</string>
+
+</resources>
